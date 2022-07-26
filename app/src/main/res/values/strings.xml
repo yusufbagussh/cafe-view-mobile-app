@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyCafeView</string>
+    <string name="home">Home</string>
+    <string name="cafe">Cafe</string>
+    <string name="maps">Maps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_home">Fragment Home</string>
+    <string name="fragment_cafe">Fragment Cafe</string>
+    <string name="fragment_maps">Fragment Maps</string>
+    <string name="coffee">Coffee</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="rating">Rating</string>
+    <string name="alamat_cafe">Alamat Cafe</string>
+    <string name="profile">Profile</string>
+    <string name="fragmen_coffee">Fragmen Coffee</string>
+    <string name="suasana_cafe">Suasana Cafe</string>
+</resources>
